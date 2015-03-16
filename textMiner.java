@@ -1,17 +1,11 @@
-import
-import
-import
-import
-import
-import
-import
-java.io.*;
-java.util.*;
-java.io.ByteArrayOutputStream.*;
-java.nio.charset.Charset;
-edu.stanford.nlp.io.*;
-edu.stanford.nlp.ling.*;
-edu.stanford.nlp.pipeline.*;import edu.stanford.nlp.trees.*;
+import java.io.*;
+import java.util.*;
+import java.io.ByteArrayOutputStream.*;
+import java.nio.charset.Charset;
+import edu.stanford.nlp.io.*;
+import edu.stanford.nlp.ling.*;
+import edu.stanford.nlp.pipeline.*;
+import edu.stanford.nlp.trees.*;
 import edu.stanford.nlp.util.*;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.DocumentBuilder;
